@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kanza26
-- 👀 I’m interested in software development 
+- 👀 I’m an undergraduate student of software engineering department of NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY
 - 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ since i am a beginner in this field, I’m looking to collaborate on small python and c++ projects to enhance my learning skills.
 - 📫 you can reach me through my email
-- email: kanzafatima9211@gmail.com
+- Email: kanzafatima9211@gmail.com
 
 <!---
 kanza26/kanza26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
