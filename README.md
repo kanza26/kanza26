@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanza26
 - 👀 I’m an undergraduate student of software engineering department of NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY
 - 🌱 I code in javaScript
-- 💞️ since i am a beginner in this field, I’m looking to collaborate on small python and c++ projects to enhance my coding skills.
+- 💞️ since i am a beginner in this field, I’m looking to collaborate on MERN  projects to enhance my coding skills.
 - 📫 you can reach me through my email
 - Email: kanzafatima9211@gmail.com
 
